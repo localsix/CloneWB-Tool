@@ -2,7 +2,7 @@
 
 CloneWB is a powerful tool to download websites from the internet to your computer, Developed by LocalSix, the tool provides an interactive command-line interface and options for direct scripting.
 
-![CLONEWB Banner]()
+![CLONEWB Banner](https://github.com/user-attachments/assets/f7da62db-e9be-4458-9fd6-11c45090d52a)
 
 ## Fitur
 
