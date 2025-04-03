@@ -61,13 +61,13 @@ You can also use this tool directly from the command line:
 
 ```bash
 # Clone website with default settings
-python Clonewb-Tool.py -u https://example.com
+python clonewb.py -u https://example.com
 
 # Cloning with custom settings
-python Clonewb-Tool.py -u https://example.com -d 5 -t 10
+python clonewbl.py -u https://example.com -d 5 -t 10
 
 # Clean output files
-python Clonewb-Tool.py --clean
+python clonewb.py --clean
 ```
 
 ### Opsi Command-Line
